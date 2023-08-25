@@ -121,4 +121,4 @@ def start_game_up():
 start_game_up()
 turtle.mainloop()
 
-#beceremedim pek
+#beceremedim pek cogunlukla videodan baktım
